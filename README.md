@@ -12,13 +12,16 @@
 * **Singular Value Decomposition**
     - Reconstructing a book cover image using [singular value decomposition](/Linear-Algebra-For-ML/image_reconstruction.py) with varying ranks
 
-## Assignment 1: Logistic Regression and Adaboost for Classification
+## Assignment 2: Logistic Regression and Adaboost for Classification
 
 - **Data Preprocessing**
+
 ![1](/Logistic-Regression-Adaboost/1.png)
-    - [Telco Customer Churn Notebook](/Logistic-Regression-Adaboost/eda-1.ipynb) 
+    - [Telco Customer Churn Notebook](/Logistic-Regression-Adaboost/eda-1.ipynb)
+
 ![2b](/Logistic-Regression-Adaboost/2b.png) 
     - [Census Income Train Notebook](/Logistic-Regression-Adaboost/eda-2a.ipynb), [Census Income Test Notebook](/Logistic-Regression-Adaboost/eda-2b.ipynb)
+
 ![3](/Logistic-Regression-Adaboost/3.png)
     - [Credit Card Fraud Notebook](/Logistic-Regression-Adaboost/eda-3.ipynb)
 - **Adaboost with Logistic Regression from Scratch**
