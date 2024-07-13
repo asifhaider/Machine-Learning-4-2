@@ -31,14 +31,15 @@
 
 ## Assignment 3: Feed Forward Neural Network from Scratch
 
-![Model Layers]()
+![Model Layers](/Neural-Network-From-Scratch/fnn_1.png)
 
-- Layer Abstractions (Dense, ReLU, Softmax, Dropout) with Forward and Backward Propagations: [Neural Network Backbone Code]()
+- Layer Abstractions (Dense, ReLU, Softmax, Dropout) with Forward and Backward Propagations: [Neural Network Backbone Code](/Neural-Network-From-Scratch/nn_1805112.py)
 
-![Training Photo]()
+![Training Photo](/Neural-Network-From-Scratch/train-eval-loss.png)
 
-- Loss function, Evaluation Metric, Loading, Preprocessing, Training, Evaluation and Plotting: [Training Code]()
+- Loss function, Evaluation Metric, Loading, Preprocessing, Training, Evaluation and Plotting: [Training Code](/Neural-Network-From-Scratch/train_1805112.py)
 
-![Results]()
+![Results](/Neural-Network-From-Scratch/confusion.png)
 
-- Inference: [Testing Code]()
+- Inference: [Testing Code](/Neural-Network-From-Scratch/test_1805112.py)
+- [Report Link](/Neural-Network-From-Scratch/report_1805112.pdf)
