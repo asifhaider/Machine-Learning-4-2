@@ -1,4 +1,4 @@
-# Machine-Learning-4-2
+# Machine-Learning-Course-Assignments
 
 ## Assignment 1: Linear Algebra for Machine Learning
 
