@@ -1,6 +1,6 @@
 # Machine-Learning-4-2
 
-## Assignment 1: Linear Algebra For Machine Learning
+## Assignment 1: Linear Algebra for Machine Learning
 
 * **Matrix Transformation**
     - [Notebook Link](/Linear-Algebra-For-ML/matrix-transformations-and-eigen-decomposition.ipynb)
@@ -28,3 +28,17 @@
     - [Python Code](/Logistic-Regression-Adaboost/1805112.py)
 - **Results and Discussion**
     - [Report Link](/Logistic-Regression-Adaboost/1805112.pdf)
+
+## Assignment 3: Feed Forward Neural Network from Scratch
+
+![Model Layers]()
+
+- Layer Abstractions (Dense, ReLU, Softmax, Dropout) with Forward and Backward Propagations: [Neural Network Backbone Code]()
+
+![Training Photo]()
+
+- Loss function, Evaluation Metric, Loading, Preprocessing, Training, Evaluation and Plotting: [Training Code]()
+
+![Results]()
+
+- Inference: [Testing Code]()
