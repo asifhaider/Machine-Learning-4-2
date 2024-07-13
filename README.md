@@ -15,7 +15,13 @@
 ## Assignment 1: Logistic Regression and Adaboost for Classification
 
 - **Data Preprocessing**
-[1]() [2b]() [3]()
-    - [Telco Customer Churn Notebook](), [Census Income Train Notebook](), [Census Income Test Notebook](), [Credit Card Fraud Notebook]()
+![1](/Logistic-Regression-Adaboost/1.png)
+    - [Telco Customer Churn Notebook](/Logistic-Regression-Adaboost/eda-1.ipynb) 
+![2b](/Logistic-Regression-Adaboost/2b.png) 
+    - [Census Income Train Notebook](/Logistic-Regression-Adaboost/eda-2a.ipynb), [Census Income Test Notebook](/Logistic-Regression-Adaboost/eda-2b.ipynb)
+![3](/Logistic-Regression-Adaboost/3.png)
+    - [Credit Card Fraud Notebook](/Logistic-Regression-Adaboost/eda-3.ipynb)
 - **Adaboost with Logistic Regression from Scratch**
-    - [Python Code]()
+    - [Python Code](/Logistic-Regression-Adaboost/1805112.py)
+- **Results and Discussion**
+    - [Report Link](/Logistic-Regression-Adaboost/1805112.pdf)
