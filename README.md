@@ -46,6 +46,6 @@
 
 ## Assignment 4: Expectation-Maximization (EM) Algorithm with Gaussian Mixture Models (GMM)
 
-![2D1]() ![2D2]() ![3D]() ![6D]() ![100D]()
+![2D1](/Gaussian-Mixture-Models-EM-Algo//2D_data_points_1_GMM_3.png) ![2D2](/Gaussian-Mixture-Models-EM-Algo/2D_data_points_2_GMM_5.png) ![3D](/Gaussian-Mixture-Models-EM-Algo/3D_data_points_GMM_4.png) ![6D](/Gaussian-Mixture-Models-EM-Algo/6D_data_points_GMM_5.png) ![100D](/Gaussian-Mixture-Models-EM-Algo/100D_data_points_GMM_3.png)
 
-- Principal Component Analysis (PCA), Expectation-Maximization Algorithm, Log-likelihood Calculation: [Python Code]()
+- Principal Component Analysis (PCA), Expectation-Maximization Algorithm, Log-likelihood Calculation: [Python Code](/Gaussian-Mixture-Models-EM-Algo/1805112.py)
