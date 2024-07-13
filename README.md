@@ -43,3 +43,9 @@
 
 - Inference: [Testing Code](/Neural-Network-From-Scratch/test_1805112.py)
 - [Report Link](/Neural-Network-From-Scratch/report_1805112.pdf)
+
+## Assignment 4: Expectation-Maximization (EM) Algorithm with Gaussian Mixture Models (GMM)
+
+![2D1]() ![2D2]() ![3D]() ![6D]() ![100D]()
+
+- Principal Component Analysis (PCA), Expectation-Maximization Algorithm, Log-likelihood Calculation: [Python Code]()
